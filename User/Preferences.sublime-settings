@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/Theme - Nil/Tubnil Bright.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "selection",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"phoenix_color_blue": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_orange": true,
+	"tab_completion": false,
+	"theme": "Phoenix Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"preview_on_click": false
+}

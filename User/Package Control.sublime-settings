@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"BufferScroll",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Inline Calculator",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"PlainTasks",
+		"Sass",
+		"Search Stack Overflow",
+		"SublimeLinter",
+		"Theme - Nil",
+		"Theme - Phoenix",
+		"TidyHTML5",
+		"Web Encoders"
+	]
+}

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+die('<pre>'.print_r(\$${1:var_name},TRUE).'</pre>');
+]]></content>
+	<tabTrigger>pvar</tabTrigger>
+</snippet>

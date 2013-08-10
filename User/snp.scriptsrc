@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<script src="${1}" type="${2:text/javascript}" charset="${3:utf-8}"></script>
+]]></content>
+	<tabTrigger>scriptsrc</tabTrigger>
+	<scope>source.html</scope>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
