@@ -14,9 +14,9 @@
 	"phoenix_color_blue": true,
 	"phoenix_dirty_bottom_bar": true,
 	"phoenix_dirty_bottom_bar_orange": true,
+	"preview_on_click": false,
 	"tab_completion": false,
 	"theme": "Phoenix Light.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"preview_on_click": false
+	"word_wrap": true
 }
